@@ -7,6 +7,7 @@ Stable tag: 1.0.1
 
 You can make a form with shorttag for creating resume submitting from your wordpress site. And it well be pushed into your salesforce CRM.
 
+If you need any help with installation or usage, you can email me pletnev.rusalex@gmail.com
 
 == Installation ==
 
@@ -14,7 +15,6 @@ You can make a form with shorttag for creating resume submitting from your wordp
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Enter your Salesforce.com information in settings salesforce candidate settings page.
 
-If you need any help with installation or usage, you can email me pletnev.rusalex@gmail.com
 
 == Changelog ==
 
