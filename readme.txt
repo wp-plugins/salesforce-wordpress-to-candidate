@@ -13,8 +13,9 @@ If you need any help with installation or usage, you can email me pletnev.rusale
 
 1. Upload the `plugin` folder to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Enter your Salesforce.com information in settings salesforce candidate settings page.
-
+3. Change file permissions for php-5.1.1.1 to 777
+4. Enter your Salesforce.com information in settings salesforce candidate settings page.
+If you have any installation problem, write me pletnev.rusalex@gmail.com
 
 == Changelog ==
 
